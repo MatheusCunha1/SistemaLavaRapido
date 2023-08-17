@@ -1,3 +1,3 @@
-# Bem-vindo ao Projeto "Streaming de Música"
+# Bem-vindo ao Sistema de Gerenciamento para Distribuição de Equipamentos Pesados
 
-A principal missão do "Nome do Aplicativo" é proporcionar aos usuários uma experiência musical verdadeiramente envolvente. Com uma vasta biblioteca de músicas de todos os gêneros, os usuários podem explorar suas faixas favoritas e descobrir novas músicas que ressoam com suas emoções.
+A principal missão do "Sistema de Gerenciamento para Distribuição de Equipamentos Pesados" é otimizar a distribuição e utilização de equipamentos pesados de maneira eficiente e eficaz. Com uma abrangente gama de recursos de acompanhamento e organização, os usuários podem gerenciar facilmente a alocação de equipamentos, o cronograma de manutenção e outras tarefas relacionadas, garantindo um fluxo de trabalho contínuo e uma utilização maximizada dos recursos disponíveis. Estamos comprometidos em simplificar a gestão de equipamentos pesados para melhor atender às necessidades operacionais de nossos clientes.
